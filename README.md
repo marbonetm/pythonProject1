@@ -1,1 +1,2 @@
-# pythonProject1 Código de la sesión 12
+# pythonProject1 
+Código de la sesión 12
